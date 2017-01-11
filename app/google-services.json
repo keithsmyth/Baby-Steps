@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "845935217689",
+    "firebase_url": "https://baby-steps-51243.firebaseio.com",
+    "project_id": "baby-steps-51243",
+    "storage_bucket": "baby-steps-51243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845935217689:android:b035e0508ecbf47c",
+        "android_client_info": {
+          "package_name": "com.keithsmyth.babysteps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845935217689-cp8dq9iq4bdraljnu9flj2iuaitk3gis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keithsmyth.babysteps",
+            "certificate_hash": "0A2DC3287CC7DE69F45E5FDD84D82E0E2C501275"
+          }
+        },
+        {
+          "client_id": "845935217689-p8122m8v171l84mvpcuuo2jbh3pb09df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwXULNsBoEWtKC1CyOdRn-NLWVdyv8z08"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845935217689-p8122m8v171l84mvpcuuo2jbh3pb09df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
